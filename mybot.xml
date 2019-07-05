@@ -1,0 +1,1 @@
+<context>     <input pattern="привет">         <output value="Приветик"/>     </input> </context>
